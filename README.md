@@ -1,6 +1,6 @@
 # HACK-Assembly-Journey
 
-The HACK assembly language is an interesting language I learned at the University of the People. 
+The HACK assembly language is an interesting language I learned at my university. 
 
 Here, each file translates the code below it into the equivalent HACK assembly language.
 - *for_loop.asm*
